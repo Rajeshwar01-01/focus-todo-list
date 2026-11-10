@@ -1,6 +1,6 @@
-# Focus To-Do
+# Lock In
 
-A calm, responsive to-do list with task priorities, due dates, a focus timer, and clocks for five cities. It runs as a static webpage: no account, server, build step, or third-party JavaScript is required.
+A colorful, responsive focus app for tasks, priorities, due dates, a timer, and clocks for five cities. It runs as a static webpage: no account, server, build step, or third-party JavaScript is required.
 
 **Live website:** <https://rajeshwar01-01.github.io/focus-todo-list/>
 
